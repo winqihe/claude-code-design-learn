@@ -1,4 +1,4 @@
-# 10 - Claude Code 的 Harness 哲学与成功之道
+# Claude Code 的 Harness 哲学与成功之道
 
 ## 什么是 Harness？
 
